@@ -14,4 +14,5 @@ Aunque el IMC es una herramienta útil para evaluar el peso corporal, no conside
 
 #enlace al video  :
 https://drive.google.com/file/d/1-3XecJTXL9UfJ8bTpL6W8SiYW0SUNsaD/view?usp=drivesdk
-#enlace a gcolab
+
+#enlace al cuaderno :https://colab.research.google.com/drive/1s0IOqaqXfn7_edt0MrYDQ8l3V9vbDBmE?usp=sharing
